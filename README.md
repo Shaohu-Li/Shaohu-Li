@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chongchongchongya 
-- 👀 喜欢CV、NLP 和 视觉 SLAM (I’m interested in CV、NLP and VSLAM)
+- 👋 您好，很高兴遇见你 🤝
+- 👀 喜欢CV、NLP 和 视觉 SLAM (CV、NLP and VSLAM)
 - 🌱 想要实现各类深度学习代码的实现和加速, 也在 NLP 和 VLSAM 中"水着"。
 - ❤️ 喜欢旅游，不想卷。
 - 📫 My CSDN Blog: https://blog.csdn.net/To_be_little?spm=1000.2115.3001.5343
